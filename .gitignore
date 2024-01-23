@@ -1,6 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/Java.iml
+/misc.xml
+/modules.xml
+/vcs.xml
 
 # Ignore the .idea directory created by IntelliJ IDEA
 .idea/
