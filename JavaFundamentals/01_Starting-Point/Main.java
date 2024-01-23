@@ -5,7 +5,7 @@ public class Main {
         System.out.println(msg);
 
         int loadTerm = 36;
-        System.out.println(number);
+        System.out.println(msg);
 
         float interestRate = 7.5f;
         System.out.println(interestRate);
