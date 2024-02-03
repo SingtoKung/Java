@@ -42,6 +42,7 @@ public class TryCatch {
             int num = kb.nextInt();
         } catch (Exception e) {
             System.out.println("Can input only integer");
+            e.printStackTrace();
         }
         
         
