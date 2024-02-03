@@ -2,7 +2,7 @@ import java.io.*;
 
 public class BufferedFile {
     public static void main(String[] args) {
-        File f = new File("C:/Users/suwat/00CodePractice/Java/JavaBeginner/47_BufferedWrite-Read/Demo2.txt");
+        File f = new File("Demo2.txt");
 
         try {
             FileWriter writer = new FileWriter(f);
