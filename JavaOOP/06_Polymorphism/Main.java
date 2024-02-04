@@ -13,9 +13,7 @@ public class Main {
     
         // Overiding method
         Programmer e1 = new Programmer();
-        e1.bonus();
+        Accounting e2 = new Accounting();
 
-        Employee e2 = new Employee();
-        e2.bonus();
     }
 }

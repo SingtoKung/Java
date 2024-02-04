@@ -21,7 +21,12 @@ public class Programmer extends Employee {
     }
 
     // Overiding method
+    // public void bonus () {
+    //     System.out.println("Bonus = 30%" );
+    // }
+
+    // abstract
     public void bonus () {
-        System.out.println("Bonus = 30%" );
+
     }
 }

@@ -1,4 +1,4 @@
-class Employee {
+abstract class Employee {
 
     // Attribute
     private String id;
@@ -51,7 +51,9 @@ class Employee {
         System.out.println("Salary: " + this.salary);
     }
 
-    public void bonus () {
-        System.out.println("Bonus = 20%");
-    }
+    // public void bonus () {
+    //     System.out.println("Bonus = 20%");
+    // }
+    public abstract void bonus ();
+    
 }
